@@ -20,8 +20,6 @@ MERN stack
  
 ## Screenshot Video and Image
 
-https://github.com/prakash-s-2210/mern-social-media-app/assets/94909544/c2bbe4be-13b3-44a3-a3a9-a964ebdc70c4
+https://github.com/vansh-patel-8123/PiSocialMedia/blob/main/Asset/demo.mp4
 
-![MERN social media img](https://github.com/prakash-s-2210/mern-social-media-app/assets/94909544/2ce80f75-72a1-4921-b605-0da6a8bce923)
-
-# PiSocialMedia
+![MERN social media img](https://github.com/vansh-patel-8123/PiSocialMedia/blob/main/Asset/demp.png)
