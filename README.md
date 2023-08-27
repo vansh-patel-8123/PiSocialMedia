@@ -20,6 +20,6 @@ MERN stack
  
 ## Screenshot Video and Image
 
-https://github.com/vansh-patel-8123/PiSocialMedia/blob/main/Asset/demo.mp4
+![Mern video](https://github.com/vansh-patel-8123/PiSocialMedia/blob/main/Asset/demo.mp4)
 
 ![MERN social media img](https://github.com/vansh-patel-8123/PiSocialMedia/blob/main/Asset/demp.png)
