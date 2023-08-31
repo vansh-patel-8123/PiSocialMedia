@@ -10,6 +10,3 @@
 5. Controllers
     - Auth 
         - Middlware Verify
-
-spykar traped fit
-UCB - CROPPED
