@@ -30,5 +30,5 @@ Schema
     location: String
     description: String
     picturePath: String
-    likes: MAP
+    likes: Array of UserID
     comments: Array

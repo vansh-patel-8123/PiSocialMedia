@@ -1,12 +1,9 @@
-1. basic index.js
-    - config
-    - DB
-2. Routes Doc define + DB Property
-3. Models Code
-4. Routes
-    - Auth
-    - Post
-    - users
-5. Controllers
-    - Auth 
-        - Middlware Verify
+- [ ] Doc
+- [ ] MVC File Structure
+- [ ] Routes, Function Define
+- [ ] Models
+- [ ] Contollers Logic Implementation
+- [ ] Auth
+- [ ] Adding Auth Middleware
+- [ ] Middleware related once
+- [ ] 
