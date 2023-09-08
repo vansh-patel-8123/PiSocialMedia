@@ -4,10 +4,11 @@
 2. User
     GET /user/:id - User details
     GET /user/:id/friends - user friends
-    PATCH /users/:id/:friendID - Add / remove friends
+    PATCH /user/:friendID - Add / remove friends
 3. Post
     GET /post - All post
-    GET /post/:userId - specific user post
+    GET /post/:userId - specific user posts By UserID
+    GET /post/:postId - specific post By ID
     POST /post - create post
     PATCH /post/like/:postID - like / dislike fun
 
