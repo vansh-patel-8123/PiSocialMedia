@@ -1,6 +1,7 @@
-- [ ] Doc
-- [ ] MVC File Structure
+- [x] Doc
+- [x] MVC File Structure
 - [ ] Routes, Function Define
+- [ ] Config -> DB
 - [ ] Models
 - [ ] Contollers Logic Implementation
 - [ ] Auth
