@@ -3,7 +3,7 @@
 - [x] Routes, Function Define
 - [x] Config -> DB
 - [x] Models
-- [ ] Auth
+- [x] Auth
 - [ ] Adding Auth Middleware
 - [ ] Contollers Logic Implementation
 - [ ] Middleware related once
