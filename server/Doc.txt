@@ -23,8 +23,6 @@ Schema
     friends: Array of UserID
     location: String
     occupation: String
-    viewedProfile: Number
-    impressions: Number
 
 2. Post
     userId: String
@@ -32,4 +30,4 @@ Schema
     description: String
     picturePath: String
     likes: Array of UserID
-    comments: Array
+    comments: Array of userID + Msg

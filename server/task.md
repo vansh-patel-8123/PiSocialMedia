@@ -2,8 +2,8 @@
 - [x] MVC File Structure
 - [x] Routes, Function Define
 - [x] Config -> DB
-- [ ] Models
-- [ ] Contollers Logic Implementation
+- [x] Models
 - [ ] Auth
 - [ ] Adding Auth Middleware
+- [ ] Contollers Logic Implementation
 - [ ] Middleware related once
